@@ -1,3 +1,3 @@
 # spring-boot-properties-diff
 
-## Current 1.5.13
+## Current 2.0.0
